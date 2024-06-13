@@ -1,0 +1,27 @@
+body {
+    background-image: url('img/Farmer.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.home-content {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.feature-box img {
+    max-width: 80px;
+    margin-bottom: 10px;
+}
