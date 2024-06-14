@@ -27,3 +27,5 @@ The primary purpose of the AI-Powered Farmer Assistant web app is to leverage ad
 
 3.Streamlit
 # Resource Visualizer
+![project](https://github.com/Panu08/ai-farmer-assistant/assets/169903566/38545cf1-f569-4f9d-a9f4-4705b74c4eb8)
+
