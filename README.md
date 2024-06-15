@@ -28,4 +28,9 @@ The primary purpose of the AI-Powered Farmer Assistant web app is to leverage ad
 3.Streamlit
 # Resource Visualizer
 ![project](https://github.com/Panu08/ai-farmer-assistant/assets/169903566/38545cf1-f569-4f9d-a9f4-4705b74c4eb8)
+# Azure Resources overview
+1) Created virtual network (for resource group and virtual machine):
 
+step 1: signed into azure portal > search for virtual network > gone to virtual network service and clicked on create > in basic tab filled the necessary details like subscription, resource group, virtual network name and region etc... > clicked on review and create.
+
+![14](https://github.com/Panu08/ai-farmer-assistant/assets/169903566/1e62eeb0-25b3-4a64-864e-ec0807379304)
